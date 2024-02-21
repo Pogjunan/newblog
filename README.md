@@ -1,2 +1,3 @@
 # newblog
-너는 되야돼
+[deeplearningforall
+](https://pogjunan.github.io/newblog/)https://pogjunan.github.io/newblog/
